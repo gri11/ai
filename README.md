@@ -1,2 +1,2 @@
 # ai
-Let's understand AI concepts
+Let's understand AI concepts.
