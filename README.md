@@ -1,2 +1,2 @@
 # ai
-implement AI concepts.
+implement ai concepts.
